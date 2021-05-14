@@ -75,7 +75,7 @@
         <color id="tab_active_face" value="#5c3c0d" />
         <color id="popup_window_border" value="#000000" />
         <color id="tooltip_text" value="#000000" />
-        <color id="tooltip_face" value="#ffff7d" />
+        <color id="tooltip_face" value="#FFEBB6" />
         <color id="filelist_even_row_text" value="#000000" />
         <color id="filelist_even_row_face" value="#ffffff" />
         <color id="filelist_odd_row_text" value="#000000" />
@@ -86,7 +86,7 @@
         <color id="workspace" value="#5c3c0d" />
         <color id="workspace_text" value="#ad4e1a" />
         <color id="workspace_link" value="#ad4e1a" />
-        <color id="workspace_link_hover" value="#ffff7d" />
+        <color id="workspace_link_hover" value="#FFEBB6" />
         <color id="timeline_normal" value="#c6c6c6" />
         <color id="timeline_normal_text" value="#000000" />
         <color id="timeline_hover" value="#d9d9d9" />

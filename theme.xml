@@ -56,10 +56,10 @@
         <color id="menuitem_hot_text" value="#231712" />
         <color id="menuitem_hot_face" value="#ffebb6" />
         <color id="menuitem_highlight_text" value="#FFEBB6" />
-        <color id="menuitem_highlight_face" value="#7c909f" />
+        <color id="menuitem_highlight_face" value="#AD4E1A" />
         <color id="window_face" value="#d3cbbe" />
         <color id="window_titlebar_text" value="#FFEBB6" />
-        <color id="window_titlebar_face" value="#7c909f" />
+        <color id="window_titlebar_face" value="#AD4E1A" />
         <color id="editor_face" value="#ad4e1a" />
         <color id="editor_sprite_border" value="#231712" />
         <color id="editor_sprite_bottom_border" value="#41412c" />
@@ -84,8 +84,8 @@
         <color id="filelist_selected_row_face" value="#e03c28" />
         <color id="filelist_disabled_row_text" value="#ffc8c8" />
         <color id="workspace" value="#AD4E1A" />
-        <color id="workspace_text" value="#AD4E1A" />
-        <color id="workspace_link" value="#AD4E1A" />
+        <color id="workspace_text" value="#5C3C0D" />
+        <color id="workspace_link" value="#5C3C0D" />
         <color id="workspace_link_hover" value="#FFEBB6" />
         <color id="timeline_normal" value="#c6c6c6" />
         <color id="timeline_normal_text" value="#231712" />

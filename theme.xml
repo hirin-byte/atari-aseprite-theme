@@ -84,8 +84,8 @@
         <color id="filelist_selected_row_face" value="#e03c28" />
         <color id="filelist_disabled_row_text" value="#ffc8c8" />
         <color id="workspace" value="#AD4E1A" />
-        <color id="workspace_text" value="#5C3C0D" />
-        <color id="workspace_link" value="#5C3C0D" />
+        <color id="workspace_text" value="#AD4E1A" />
+        <color id="workspace_link" value="#AD4E1A" />
         <color id="workspace_link_hover" value="#FFEBB6" />
         <color id="timeline_normal" value="#c6c6c6" />
         <color id="timeline_normal_text" value="#231712" />

@@ -1,4 +1,4 @@
- Atari-aseprite-theme Beta 0.1
+ Atari-aseprite-theme
 ====================
 ##  This is a theme for Aseprite based on Atari console colors
 ## This font is not included
